@@ -1,0 +1,65 @@
+{
+  "nombre": "pedro",
+  "sexo": "Hombre",
+  "edad": 18,
+  "origen": "Ruinas de un Reino Caído",
+  "familia": "Campesinos libres",
+  "infancia": "Estudios con tutores",
+  "juventud": "Mercader",
+  "evento": "Una huida",
+  "motivacion": "Buscar riqueza",
+  "atributos": {
+    "Fuerza": 10,
+    "Destreza": 11,
+    "Constitución": 12,
+    "Inteligencia": 14,
+    "Sabiduría": 11,
+    "Carisma": 11
+  },
+  "habilidades": {
+    "Erudición": 3,
+    "Arcanismo": 2,
+    "Supervivencia": 2,
+    "Atletismo": 2,
+    "Comercio": 2,
+    "Persuasión": 2,
+    "Sigilo": 1
+  },
+  "rasgos": [
+    "melancólico",
+    "curioso",
+    "trabajador",
+    "culto",
+    "negociador",
+    "prófugo",
+    "rápido",
+    "ambicioso"
+  ],
+  "inventario": [
+    "Frasco de tinta",
+    "Mapa antiguo",
+    "Azada",
+    "Capa de lana",
+    "Libro de historia",
+    "Mercancía variada",
+    "Balanza",
+    "Documentos falsos"
+  ],
+  "dinero": 190,
+  "relaciones": [
+    "Un ermitaño que estudia las ruinas",
+    "Vecinos que te consideran familia",
+    "Un tutor que te escribía cartas",
+    "Contactos en varias ciudades",
+    "Alguien te ayudó a escapar"
+  ],
+  "reputacion": {
+    "Eruditos": 10,
+    "Campesinos": 15,
+    "Nobleza": -5,
+    "Gremios": 15,
+    "Comerciantes": 5
+  },
+  "historia": "Nací entre las ruinas de un reino caído, donde el pasado nunca termina de morir. Mi familia trabaja la tierra desde antes de que hubiera reyes. Pasé mi infancia entre libros, aprendiendo sobre un mundo que aún no conocía. Fui mercader; vendí de todo, desde telas hasta secretos. Huí; aún no sé si me buscan, pero no pienso esperar a averiguarlo. Busco riqueza; no por avaricia, sino porque el oro da libertad. Ahora, a los 18 años, buscar riqueza.",
+  "fecha_creacion": "2026-10-08 22:39:48"
+}

@@ -1,0 +1,67 @@
+{
+  "nombre": "ko",
+  "sexo": "Mujer",
+  "edad": 18,
+  "origen": "Tierras del Interior",
+  "familia": "Artesanos",
+  "infancia": "Callejeo y supervivencia",
+  "juventud": "Erudito",
+  "evento": "Un descubrimiento",
+  "motivacion": "Buscar riqueza",
+  "atributos": {
+    "Fuerza": 11,
+    "Destreza": 14,
+    "Constitución": 10,
+    "Inteligencia": 13,
+    "Sabiduría": 11,
+    "Carisma": 10
+  },
+  "habilidades": {
+    "Supervivencia": 1,
+    "Artesanía": 3,
+    "Comercio": 1,
+    "Sigilo": 2,
+    "Engaño": 1,
+    "Erudición": 3,
+    "Arcanismo": 3
+  },
+  "rasgos": [
+    "campesino",
+    "terco",
+    "perfeccionista",
+    "callejero",
+    "rápido",
+    "intelectual",
+    "curioso",
+    "ambicioso"
+  ],
+  "inventario": [
+    "Hoz",
+    "Saco de semillas",
+    "Herramientas de oficio",
+    "Delantal de cuero",
+    "Navaja oculta",
+    "Dados cargados",
+    "Libros",
+    "Pluma y tinta",
+    "El objeto del descubrimiento"
+  ],
+  "dinero": 100,
+  "relaciones": [
+    "Tu familia extendida, dispersa por los campos",
+    "Tu maestro de taller",
+    "Una banda de niños que ya no existe",
+    "Un académico que respeta tu trabajo",
+    "Un estudioso que te ayuda a entenderlo"
+  ],
+  "reputacion": {
+    "Campesinos": 15,
+    "Nobleza": -5,
+    "Gremios": 15,
+    "Bajos fondos": 10,
+    "Eruditos": 20,
+    "Comerciantes": 5
+  },
+  "historia": "Crecí en las tierras del interior, donde el trigo crece alto y las esperanzas, bajas. Mi familia es de artesanos; el trabajo bien hecho es nuestra única religión. Crecí en las calles, aprendiendo que la velocidad salva más vidas que la fuerza. Dediqué mi juventud al estudio; los libros fueron mis mejores maestros. Descubrí algo que no debía; ahora no puedo dejar de buscar respuestas. Busco riqueza; no por avaricia, sino porque el oro da libertad. Ahora, a los 18 años, buscar riqueza.",
+  "fecha_creacion": "2026-10-08 22:32:59"
+}

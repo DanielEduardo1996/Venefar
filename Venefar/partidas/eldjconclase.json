@@ -1,0 +1,62 @@
+{
+  "nombre": "ELDJCONCLASE",
+  "sexo": "Hombre",
+  "edad": 18,
+  "origen": "La Capital Imperial",
+  "familia": "Nobleza menor",
+  "infancia": "Criado entre soldados",
+  "juventud": "Soldado",
+  "evento": "Una guerra",
+  "motivacion": "Buscar poder",
+  "atributos": {
+    "Fuerza": 12,
+    "Destreza": 10,
+    "Constitución": 13,
+    "Inteligencia": 11,
+    "Sabiduría": 10,
+    "Carisma": 13
+  },
+  "habilidades": {
+    "Persuasión": 3,
+    "Erudición": 1,
+    "Liderazgo": 1,
+    "Combate": 5,
+    "Táctica": 4,
+    "Atletismo": 1
+  },
+  "rasgos": [
+    "urbano",
+    "aristocrático",
+    "disciplinado",
+    "marcial",
+    "marcado por la guerra",
+    "ambicioso",
+    "calculador"
+  ],
+  "inventario": [
+    "Ropa de lino",
+    "Carta de recomendación",
+    "Anillo con sello",
+    "Ropa de terciopelo",
+    "Espada de entrenamiento",
+    "Espada de calidad",
+    "Armadura de cuero",
+    "Cicatriz visible"
+  ],
+  "dinero": 160,
+  "relaciones": [
+    "Un viejo bibliotecario que te aprecia",
+    "Un tío que conspira en la corte",
+    "Un veterano que te protegió",
+    "Tus antiguos compañeros de unidad",
+    "Un compañero caído cuyo nombre recuerdas"
+  ],
+  "reputacion": {
+    "Casa Valdor": 5,
+    "Nobleza": 20,
+    "Pueblo": -5,
+    "Ejército Imperial": 30
+  },
+  "historia": "Nací en la Capital Imperial, entre el humo de las chimeneas y los susurros de palacio. Mi familia tiene título, aunque el oro se acabó hace dos generaciones. Me crié entre soldados; aprendí a marchar antes que a leer. Serví como soldado; la guerra me enseñó lo que valgo y lo que no. La guerra me marcó; llevo cicatrices que no se ven. Busco poder; no para dominar, sino para no ser dominado nunca más. Ahora, a los 18 años, buscar poder.",
+  "fecha_creacion": "2026-10-08 22:29:55"
+}
